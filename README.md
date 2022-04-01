@@ -1,6 +1,6 @@
 # Key Commuting Routes
 Please cite the following paper when using the code.  
-Paper: *Analysis of key commuting routes based on spatiotemporal trip chain*  
+Paper: *Wenbin Yao, Caijun Chen, Hongyang Su, Nuo Chen, Sheng Jin, Congcong Bai, "Analysis of Key Commuting Routes Based on Spatiotemporal Trip Chain", Journal of Advanced Transportation, vol. 2022, Article ID 6044540, 15 pages, 2022. https://doi.org/10.1155/2022/6044540*  
 
 ## Abstract
 This code is a framework of key commuting routes mining algorithm based on license plate recognition(LPR) data.
